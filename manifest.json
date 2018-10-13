@@ -1,8 +1,8 @@
 {
   "name": "UW Professor Ratings",
   "description": "Displays professors and their Rate My Professor ratings on the UW MyPlan course search page.",
-  "version": "1.0.2",
-  "author": "Jordan Barnes",
+  "version": "1.0.3",
+  "author": "Kevin Hsu, Jordan Barnes",
   "manifest_version": 2,
   "browser_action": {
     "default_icon": {
